@@ -16,4 +16,4 @@ Languages used
 **Data is comming from json file which is in data folder** Leave a comment!
 :::
 
-###### tags: `Templates` `Documentation`
+###### tags: `javascript` `Fetch API`
